@@ -1,4 +1,4 @@
--- MySQL dump 10.13  Distrib 5.5.47, for debian-linux-gnu (i686)
+﻿-- MySQL dump 10.13  Distrib 5.5.47, for debian-linux-gnu (i686)
 --
 -- Host: localhost    Database: gsb_frais
 -- ------------------------------------------------------
@@ -152,7 +152,7 @@ CREATE TABLE `ligne_frais_hors_forfait` (
 
 LOCK TABLES `ligne_frais_hors_forfait` WRITE;
 /*!40000 ALTER TABLE `ligne_frais_hors_forfait` DISABLE KEYS */;
-INSERT INTO `ligne_frais_hors_forfait` VALUES (2,4,'REFUSE : Crevéson','2016-05-05',245.00);
+INSERT INTO `ligne_frais_hors_forfait` VALUES (2,4,'REFUSE : Crevaison','2016-05-05',245.00);
 /*!40000 ALTER TABLE `ligne_frais_hors_forfait` ENABLE KEYS */;
 UNLOCK TABLES;
 
